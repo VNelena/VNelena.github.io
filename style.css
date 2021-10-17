@@ -1,0 +1,72 @@
+
+/*flexbox*/
+@media (min-width:1000px){
+.parent{
+	
+	display:flex;
+	column-gap:10px;
+	align-items:center;
+	justify-content:space-around;
+	flex-wrap:wrap;
+
+}
+}	
+.box1{
+	background-color:#90EE90;
+	width:25%;
+	height:300px;
+	justify-content:center;
+	text-align:left;
+	padding:10px;
+
+}
+.box2{
+	background-color:#AFEEEE;
+	width:25%;
+	height:300px;
+	justify-content:center;
+	text-align:left;
+	padding:10px;
+	
+}
+
+.box3{
+	background-color:#FFC0CB;
+	width:25%;
+	height:300px;
+	justify-content:center;
+	text-align:left;
+	padding:10px;
+}
+
+
+.header{
+	background-color:#DB7093;
+	width:100%;
+	font-family:Tahoma;
+	color:GhostWhite;
+	text-align:center;
+	border: solid WhiteGhost 1px;
+	padding-top:20px;
+
+}
+h4{
+	text-align:right;
+}
+
+body{
+	background-color:#FFFFF0;
+	font-family:Tahoma;
+}
+
+.tab{
+	margin-left:60px;
+
+}
+
+.intro{
+	margin-left:50px;
+	text-align:center;
+}
+
+</style>
