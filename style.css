@@ -10,6 +10,9 @@
 	flex-wrap:wrap;
 
 }
+img{
+float:right;
+}
 }	
 .box1{
 	background-color:#90EE90;
